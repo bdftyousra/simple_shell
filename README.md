@@ -1,7 +1,6 @@
 0x16. C - Simple Shell
 ======================
 
--   By Julien Barbier
 -   Project to be done in teams of 2 people Yousra boudft & Ahmed Diaa Al-shahat Ibrahim
 
 Concepts
