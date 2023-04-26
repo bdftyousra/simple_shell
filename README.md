@@ -1,7 +1,7 @@
 0x16. C - Simple Shell
 ======================
 
--   Project to be done in teams of 2 people Yousra boudft & Ahmed Diaa Al-shahat Ibrahim
+-   Project to be done in teams of two people Yousra boudft & Ahmed Diaa Al-shahat Ibrahim
 
 Concepts
 --------
@@ -33,7 +33,6 @@ Resources
 **man or help**:
 
 -   `sh` (*Run `sh` as well*)
-
 Learning Objectives
 -------------------
 
@@ -138,7 +137,6 @@ $
 -   `wait3` (man 2 wait3)
 -   `wait4` (man 2 wait4)
 -   `write` (man 2 write)
-
 ### Compilation
 
 Your shell will be compiled this way:
@@ -210,7 +208,6 @@ Write a beautiful code that passes the Betty checks
 -   GitHub repository: `simple_shell`
 
 ### 2\. Simple shell 0.1
-
 mandatory
 
 Write a UNIX command line interpreter.
@@ -316,7 +313,6 @@ Simple shell 0.3 +
 -   Implement the `exit` built-in, that exits the shell
 -   Usage: `exit`
 -   You don't have to handle any argument to the built-in `exit`
-
 **Repo:**
 
 -   GitHub repository: `simple_shell`
@@ -375,5 +371,4 @@ Write a blog post describing step by step what happens when you type `ls -l *.c`
 ## WARNING!!
 - This repo is done as a school assignment. Beware of copying my responses. I recommend you  to read resources and come up with your own solutions instead. Feel free to reach out for help!
 - This repo may contain some errors. If you notice any, please add a pull request.
-
 
